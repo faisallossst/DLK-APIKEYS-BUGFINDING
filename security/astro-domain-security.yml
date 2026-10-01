@@ -1,0 +1,18 @@
+generated: '2026-07-18'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.astronauts.id
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 18 20:42:59 2026 GMT
+  hsts: false
+domains:
+- domain: astronauts.id
+  dnssec: false
+  caa:
+  - 0 issuewild "letsencrypt.org"
+  - 0 issuewild "sectigo.com"
+  spf: true
+  dmarc: true
+  dmarc_policy: reject
