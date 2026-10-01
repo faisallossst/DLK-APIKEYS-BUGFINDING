@@ -1,9 +1,8 @@
 <img width="700" height="655" alt="image" src="https://github.com/user-attachments/assets/265d8dc4-9115-4f47-9874-5b603c3537c5" />
 
 # Astro
-
-![Uploading image.png…]()
-
+SOURCE BY OSC
+Finding BUGS ASTRO HIGHT RISK
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
